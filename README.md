@@ -1,1 +1,1 @@
-# InvisibleCloak
+This project is representation of opencv tools, by using opencv the webcam captures the background image and then with further specifications it ignore every red color object. So basically if I cover my body with red cloth I will get invisible in front of webcam.
